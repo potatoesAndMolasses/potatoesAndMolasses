@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jan Martins!  
 
-### 💻 Data Science | Cybersecurity | Optimization  
+### 💻 Data Science | Cybersecurity 
 
 📌 **About me:**  
 - 🎓 Mathematics graduate | Passionate about technology and research  
